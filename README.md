@@ -9,7 +9,7 @@
 </div>
 
 
-**Live Demo:** [Nixzo Live Demo](https://www.nixzobd.com/)
+<!-- **Live Demo:** [Nixzo Live Demo](https://www.nixzobd.com/) -->
 
 ** Nixzo** is an e-commerce website where users can explore and purchase the latest productss and accessories. The website provides a smooth and engaging experience with a visually appealing UI.
 
